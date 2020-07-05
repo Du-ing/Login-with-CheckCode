@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="request_LoginTest:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/request_LoginTest_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="request_LoginTest/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="request_LoginTest" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
