@@ -1,7 +1,7 @@
 # Servlet_Request_login
 A Web Login prgramming by JavaEE
 
-##用户登录案例功能需求
+## 用户登录案例功能需求
 1. 编写login.html登录页面
 2. username&password两个输入框
 3. 使用Druid数据库连接池技术，操作MySQL，duing数据库中的user表
